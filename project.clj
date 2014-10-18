@@ -5,6 +5,7 @@
                  [org.clojure/tools.logging "0.2.6"]
                  [cssgen "0.3.0-SNAPSHOT"]
                  [hiccup "1.0.4"]
+                 [markdown-clj "0.9.41"]
                  [org.pegdown/pegdown "1.4.1"]
                  [org.clojars.amit/commons-io "1.4.0"]
                  [ring/ring-core "1.2.0"]

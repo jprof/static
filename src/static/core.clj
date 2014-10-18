@@ -1,6 +1,7 @@
 (ns static.core
   (:gen-class)
-  (:require [watchtower.core :as watcher])
+  (:require [watchtower.core :as watcher]
+            [markdown.core :as md])
   (:use [clojure.tools logging cli]
         [clojure.java.browse]
         [ring.adapter.jetty]
